@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "501618930237",
+    "project_id": "memora-5e473",
+    "storage_bucket": "memora-5e473.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501618930237:android:110d70a9af96576dac3054",
+        "android_client_info": {
+          "package_name": "com.example.memora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501618930237-4mhemprn0oa30ferahghob7vmo6in6qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.memora",
+            "certificate_hash": "12d81e0ac5b89c88c7fb63a8e51f236ec88e785f"
+          }
+        },
+        {
+          "client_id": "501618930237-d1m417aauk4h5crlkuook4rnackvbo2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwD_xzKK1DDy0LAsMGh8fa6lcvehfhd4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501618930237-d1m417aauk4h5crlkuook4rnackvbo2c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "501618930237-vj5ijn4jk7330oo32e5b553emtpona2m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.memora"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
